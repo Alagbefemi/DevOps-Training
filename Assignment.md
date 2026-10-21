@@ -55,4 +55,3 @@ ECHO
 REDIRECTION 
 ```
 ![Echo and Redirection command](evidence/echo.png)
-
