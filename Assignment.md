@@ -7,27 +7,27 @@
  ## ANSWER
 
  `Ubuntu terminal`
- ![ubuntu](evidence/ubuntu-terminal.png)
+ ![ubuntu](EVIDENCE/ubuntu-terminal.png)
 
  `VS CODE`
- ![vs code](evidence/vscode.png)
+ ![vs code](EVIDENCE/vscode.png)
 
  `Github`
- ![github interface](evidence/github.png)
+ ![github interface](EVIDENCE/github.png)
 
 
  `Hashnode`
- ![hasnode interface](evidence/hashnode.png)
+ ![hasnode interface](EVIDENCE/hashnode.png)
 
 `BASIC IDENTIFICATION COMMANDS`
-![Basic identification commands](evidence/basic%20system%20command.png)
+![Basic identification commands](EVIDENCE/basic%20system%20command.png)
 
 ### explain 5 commands
 1. `PWD`: This command is used to know the current working directory. It is also know as `where am i`
 ```bash
 PWD
 ```
-![PWD Command](evidence/pwd.png)
+![PWD Command](EVIDENCE/pwd.png)
 
 2. `CD ..`: This command is used to go back to any working directory or go back to previous directory. In simple language it means `GO BACK`
 ```BASH
@@ -39,13 +39,13 @@ CD ..
 ```bash
 LS
 ```
-![LS command](evidence/LS.png)
+![LS command](EVIDENCE/LS.png)
 
 4. `TOUCH`:This command is used to create an empty file. for example, if i run ***touch command.log*** it means create me an empty file and name it command.log
 ```bash
 TOUCH
 ```
-![Touch command](evidence/touch.png)
+![Touch command](EVIDENCE/touch.png)
 
 5. `ECHO`: This command means write or print. For example **echo** " i love linux". This means write or print i love linux. `   REDIRECTION >` This command or sign is used to put a note or text inside an empty file or exixting files if the user do not want the result of the first command (echo for instance) to be display on the terminal. However, one redirection sign > is used to overwrite the content in the file but to add to the existing content two redirectio sign is used >>
 
@@ -54,4 +54,4 @@ TOUCH
 ECHO 
 REDIRECTION 
 ```
-![Echo and Redirection command](evidence/echo.png)
+![Echo and Redirection command](EVIDENCE/echo.png)
