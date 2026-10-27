@@ -4,7 +4,7 @@
 
 # SOLUTION
 #### 1 Directory Tree
-![directory tree](evidence/command%20tree1.png)
+![directory tree](Evidence/command%20tree1.png)
 
 #### 2 History
 ![history 1](Evidence/history1.png)
